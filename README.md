@@ -48,9 +48,9 @@
 
 <div align=center>
 
-<img height="200em" src="./img/captura.png">
-<img height="200em" src="./img/captura2.png">
-<img height="200em" src="./img/captura.png">
+<img height="200em" src="./img/Captura1.PNG">
+<img height="200em" src="./img/Captura2.PNG">
+<img height="200em" src="./img/Captura.PNG">
 
 </div>
 
